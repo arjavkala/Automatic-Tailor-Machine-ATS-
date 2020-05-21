@@ -5,8 +5,8 @@ In the current employment scenario, it is of great importance that the resume of
 Analyse two documents (resume and job description), find out the extent to which these documents match and report the similarity score.
 
 Methodologies used in Analysis -
-Porter Stemmer
-Lancaster Stemmer
-TF-IDF Vectorizer
-Jaccard Distance
-Cosine Similarity
+1. Porter Stemmer
+2. Lancaster Stemmer
+3. TF-IDF Vectorizer
+4. Jaccard Distance
+5. Cosine Similarity
